@@ -1,4 +1,5 @@
 Sign Language Letter Recognition using PyTorch
+
 Overview
 
 This project is a deep learning-based model that recognizes sign language hand gestures and classifies them into corresponding English alphabet letters.
